@@ -1,4 +1,4 @@
-### Bienvenu sur la page Github de 7Robot 👋
+### Bienvenue sur la page Github de 7Robot 👋
 
 🤖 7Robot est le club de robotique de l'ENSEEIHT, il participe chaque année à la [Coupe de France de Robotique](https://www.coupederobotique.fr/levenement/lacoupe/) et à la [Toulouse Robot Race](http://www.toulouse-robot-race.org/).
 
