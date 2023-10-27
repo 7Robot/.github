@@ -11,3 +11,8 @@
 🐍 *ROS/ROS2 :*
 -   👴 Repo ROS1 : [ros_base_cdf](https://github.com/7Robot/ros_base_cdf)
 -   🏗️ Repo ROS2 : [ROS2_base_cdf](https://github.com/7Robot/ROS2_base_cdf)
+
+🌐 *Contribution*
+-   📁 Projet Github : [Coupe de France](https://github.com/orgs/7Robot/projects/1)
+-   👨‍🎓 Guide du contributeur : [Guide](https://github.com/7Robot/.github/blob/main/guide/GuideContrib.md)
+
