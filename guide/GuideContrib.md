@@ -4,9 +4,9 @@
 
 ### Trouver un projet :
 
-Le plus difficile pour démarrer est justement de trouver sur quoi démarrer. Depuis peu, nous avons mis en place un système de projet Github, celui-ci nous permet de noter les tâches à réaliser, leur état d'avancement ainsi que les personnes  travaillant dessus.
+Le plus difficile pour démarrer est justement de trouver sur quoi démarrer. Depuis peu, nous avons mis en place un système de projet Github, celui-ci nous permet de noter les tâches à réaliser, leur état d'avancement ainsi que les personnes travaillant dessus.
 
-Vous pouvez par exemple retrouver le projet de la coupe de France 2023 ici :
+Vous pouvez par exemple retrouver le projet de la coupe de France 2024 ici :
 [https://github.com/orgs/7Robot/projects/1](https://github.com/orgs/7Robot/projects/1)
 
 ![image](images/project.png)

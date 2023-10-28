@@ -2,6 +2,8 @@
 
 🤖 7Robot est le club de robotique de l'ENSEEIHT, il participe chaque année à la [Coupe de France de Robotique](https://www.coupederobotique.fr/levenement/lacoupe/) et à la [Toulouse Robot Race](http://www.toulouse-robot-race.org/).
 
+Pour participer aux avancées du club merci de jeter un oeil au projet Github ci-dessous et au Guide du contributeur associé.
+
 #### Liens rapides - Coupe de France
 
 🖥️ *PIC :*
