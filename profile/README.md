@@ -7,8 +7,7 @@ Pour participer aux avancées du club merci de jeter un oeil au projet Github ci
 #### Liens rapides - Coupe de France
 
 🖥️ *PIC :*
--   🔘 Carte User : [Carte_User](https://github.com/7Robot/Carte_User)
--   🏎️ Carte Com et Moteur : [Dev_Cartes_2022](https://github.com/7Robot/Dev_Cartes_2022)
+-   🔘 Repo cartes PIC : [Eurobot 2024](https://github.com/7Robot/Eurobot_2024)
 
 🐍 *ROS/ROS2 :*
 -   👴 Repo ROS1 : [ros_base_cdf](https://github.com/7Robot/ros_base_cdf)
